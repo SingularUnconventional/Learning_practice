@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "simple_neural_network_Learning_practice", "simple_neural_network_Learning_practice\simple_neural_network_Learning_practice.pyproj", "{F8A1F6FC-FCFE-4D17-A2FE-FB37BC27E1D8}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Reinforcement_Learning_practice", "Reinforcement_Learning_practice\Reinforcement_Learning_practice.pyproj", "{A0A53851-3309-4F3F-A938-5A131A944BD9}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Reinforcement_Learning_SnakeGame", "Reinforcement_Learning_SnakeGame\Reinforcement_Learning_SnakeGame.pyproj", "{29C95820-A834-4DC7-9114-8C0088B56F47}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Find a restaurant", "Find a restaurant\Find a restaurant.pyproj", "{FB2C19CF-FA65-4176-BE7C-9B3C87248250}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Find a restaurant DQN", "Find a restaurant DQN\Find a restaurant DQN.pyproj", "{B0CC0884-5768-46B8-87AD-675C66279AE5}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Reinforcement Learning SnakeGame DQN", "Reinforcement Learning SnakeGame DQN\Reinforcement Learning SnakeGame DQN.pyproj", "{49868496-1FDE-487B-B7C3-37429AB2901A}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Biological Neural Network", "Biological Neural Network\Biological Neural Network.pyproj", "{2B89FA79-07AC-4917-8CD5-9C341082BC2F}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Music Backpropagation Learning", "Music Backpropagation Learning\Music Backpropagation Learning.pyproj", "{8C12829E-C5AB-41E9-BB88-3D941F4043D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8A1F6FC-FCFE-4D17-A2FE-FB37BC27E1D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8A1F6FC-FCFE-4D17-A2FE-FB37BC27E1D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0A53851-3309-4F3F-A938-5A131A944BD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0A53851-3309-4F3F-A938-5A131A944BD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29C95820-A834-4DC7-9114-8C0088B56F47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29C95820-A834-4DC7-9114-8C0088B56F47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB2C19CF-FA65-4176-BE7C-9B3C87248250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB2C19CF-FA65-4176-BE7C-9B3C87248250}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0CC0884-5768-46B8-87AD-675C66279AE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0CC0884-5768-46B8-87AD-675C66279AE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49868496-1FDE-487B-B7C3-37429AB2901A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49868496-1FDE-487B-B7C3-37429AB2901A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B89FA79-07AC-4917-8CD5-9C341082BC2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B89FA79-07AC-4917-8CD5-9C341082BC2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C12829E-C5AB-41E9-BB88-3D941F4043D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C12829E-C5AB-41E9-BB88-3D941F4043D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E50D0A1-00A6-4D79-8DDF-F310C18C8CBB}
+	EndGlobalSection
+EndGlobal
